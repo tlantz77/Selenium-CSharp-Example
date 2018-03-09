@@ -1,0 +1,12 @@
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe.config
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.pdb
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.dll
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.dll
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.dll
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.xml
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.xml
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.xml
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.exe
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.pdb
+c:\users\tlantz\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.csprojResolveAssemblyReference.cache
